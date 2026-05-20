@@ -126,17 +126,17 @@ Rest of the content is under [Creative Commons Attribution 4.0 International](ht
         </a>
     </td>
     <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
+        <a href=https://github.com/Annalisik>
+            <img src=https://avatars.githubusercontent.com/u/184008534?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Annalisik/>
+            <br />
+            <sub style="font-size:14px"><b>Annalisik</b></sub>
+        </a>
+    </td>
+    <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
         <a href=https://github.com/zuzkito>
             <img src=https://avatars.githubusercontent.com/u/247555077?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Zuzka/>
             <br />
             <sub style="font-size:14px"><b>Zuzka</b></sub>
-        </a>
-    </td>
-    <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
-        <a href=https://github.com/Jingr33>
-            <img src=https://avatars.githubusercontent.com/u/173592834?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Jiří Ingr/>
-            <br />
-            <sub style="font-size:14px"><b>Jiří Ingr</b></sub>
         </a>
     </td>
 </tr>
@@ -149,10 +149,10 @@ Rest of the content is under [Creative Commons Attribution 4.0 International](ht
         </a>
     </td>
     <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
-        <a href=https://github.com/Annalisik>
-            <img src=https://avatars.githubusercontent.com/u/184008534?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Annalisik/>
+        <a href=https://github.com/Jingr33>
+            <img src=https://avatars.githubusercontent.com/u/173592834?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Jiří Ingr/>
             <br />
-            <sub style="font-size:14px"><b>Annalisik</b></sub>
+            <sub style="font-size:14px"><b>Jiří Ingr</b></sub>
         </a>
     </td>
     <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
